@@ -1,6 +1,6 @@
 # DL- Developing a Deep Learning Model for NER using LSTM
-# NAME: RITHIK V 
-# REGISTER NUMBER: 212223230171
+# NAME: SELVAGANESH R
+# REGISTER NUMBER: 212223230200
 ## AIM
 To develop an LSTM-based model for recognizing the named entities in the text.
 
